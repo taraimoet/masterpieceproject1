@@ -1,8 +1,5 @@
 hello
-<<<<<<< HEAD
-=======
 hello my name is tara
 hello my name is tara, i am a programmer
 hello my name is tara, i am a programmer, i am learning at timedoors
 hello my name is tara, i am a programmer, i am learning at timedoors, my teacher is mr arya
->>>>>>> 514085a56669fd970e2961f5e2d333e5bf52545c
